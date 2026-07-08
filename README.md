@@ -58,7 +58,4 @@ Full-stack TypeScript · NestJS architecture · Tauri/Rust desktop apps · elect
 
 **Remote full-stack roles** (LATAM / US timezones). Reach me at **me@gcoder.dev**.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gerar12&show_icons=true&hide_border=true&count_private=true&theme=default" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerar12&layout=compact&hide_border=true&langs_count=8" alt="top langs" />
-</p>
+<p align="center"><i>Explore my work at <a href="https://gcoder.dev">gcoder.dev</a> — 9 products, from database to screen.</i></p>
