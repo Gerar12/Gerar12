@@ -47,8 +47,9 @@ I build production systems end to end — from the database to the user's screen
 | [**novex** (.nova)](https://github.com/Gerar12/novex) | A Tauri-first React framework with file-based routing — my own desktop app framework |
 | [**mcp-el-salvador-dte**](https://github.com/Gerar12/mcp-el-salvador-dte) | An MCP server exposing El Salvador's electronic-invoicing (DTE) domain as tools |
 | [**Portfolio**](https://github.com/Gerar12/portafolio) | [gcoder.dev](https://gcoder.dev) — Next.js 16, React 19, bilingual, with an AI assistant |
+| [**📚 Case studies**](https://github.com/Gerar12/case-studies) | Deep-dive writeups of the products below — architecture, decisions & metrics |
 
-**Selected client work (private):** *Atto* — DTE e-invoicing SaaS (11 doc types, X.509 signing, 18k+ documents) · *Gestión* — multi-branch ERP with a native Tauri/Rust POS · *UrbaNext* — multi-tenant real-estate SaaS (Mapbox, WebSockets).
+**Selected client work (private code):** *Atto* — DTE e-invoicing SaaS (11 doc types, X.509 signing, 18k+ documents) · *Gestión* — multi-branch ERP with a native Tauri/Rust POS · *UrbaNext* — multi-tenant real-estate SaaS (Mapbox, WebSockets). → **[Read the case studies](https://github.com/Gerar12/case-studies)** (architecture & outcomes, no proprietary code).
 
 ### 💬 Ask me about
 
